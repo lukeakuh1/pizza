@@ -8,7 +8,7 @@ class Person:
 
     def greeting(self):
         user = input("Enter You Name: ")
-        return f "Hello, {user} How are you doing today"
+        return f"Hello, {user} How are you doing today"
 
 
 def main():
